@@ -5,3 +5,5 @@ esse app foi criado pra auxiliar as sorverteria,e para facilitar ó acesso dos c
 baseado em aplicativos como iFood,Wendy,Chick-fil-A,Metrô,McDonalds, etc...
 todos esses aplicativos tem intuito de facilitar a compra dos alimentos.
 
+![sed](./assets/figma.PNG)
+
